@@ -19,6 +19,8 @@ Curated list of ethereum layer 2 use cases, ready to be used by the average end 
 | [GoodDollar](https://www.gooddollar.org/)     |   [Sidechain: Fuse](https://explorer.fuse.io/) | Universal Basic Income, goodDollar token is claimed offchain using Fuse and can be moved to l1  | [G$](https://coinmarketcap.com/currencies/gooddollar/) |
 | [FuseSwap](https://fuseswap.com/#/bridge)     |   [Sidechain: Fuse](https://explorer.fuse.io/) |  AMM DEX Built on top of Fuse Network     | [Fuse](https://www.coingecko.com/es/monedas/fuse-network-token) |
 | [Synthetix](https://l2.mintr.synthetix.io/)     |   Optimistic Rollup | Decentralised synthetic asset issuance protocol    |[SNX](https://coinmarketcap.com/currencies/synthetix-network-token/) |
+| [Leverj](https://live.leverj.io/)     |   Gluon Plasma Sidechain | Derivatives DEX with ETH/BTC perpetuals and x100 leverage    | [L2](https://coinmarketcap.com/currencies/leverj-gluon/) |
+| [FalconSwap](https://falconswap.exchange/)     |   - | Aggregates transactions from multiple users in order to split gas costs. Transactions are run in batches of x seconds, leveraging existing liquidity in platform such as Uniswap     | [FSW](https://coinmarketcap.com/currencies/fsw-token/) |
 
 
 # On testnet
