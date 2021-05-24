@@ -7,7 +7,7 @@ Curated list of ethereum layer 2 use cases, ready to be used by the average end 
 * Plasma
 * Sidechain
 
-# Rollup Projects
+# Rollups
 
 | Project  | Technology | Description | Related Token |
 |----------|------------|-------|-------------|
@@ -22,7 +22,7 @@ Curated list of ethereum layer 2 use cases, ready to be used by the average end 
 | [Synthetix](https://l2.mintr.synthetix.io/)     |   Optimistic Rollup | Decentralised synthetic asset issuance protocol    |[SNX](https://coinmarketcap.com/currencies/synthetix-network-token/) |
 
 
-# Sidechain Projects
+# Sidechains
 
 | Project  | Technology | Description | Related Token |
 |----------|------------|-------|-------------|
@@ -37,6 +37,12 @@ Curated list of ethereum layer 2 use cases, ready to be used by the average end 
 | [SushiSwap](https://app.sushi.com/swap)     |   [Sidechain: Matic](https://wallet.matic.network/) | Layer 2 version of Sushi swap, an AMM exchange    | [SUSHI](https://coinmarketcap.com/currencies/sushiswap/) |
 | [OpenSea](https://matic.opensea.io/)     |   [Sidechain: Matic](https://wallet.matic.network/) | Layer 2 version of OpeanSea, an NFT exchange    | - |
 | [Leverj](https://live.leverj.io/)     |   Sidechain: Gluon Plasma | Derivatives DEX with ETH/BTC perpetuals and x100 leverage    | [L2](https://coinmarketcap.com/currencies/leverj-gluon/) |
+
+# State Channels
+
+| Project  | Technology | Description | Related Token |
+|----------|------------|-------|-------------|
+| [L2 Finance](https://app.l2.finance/)                 |   [State Channel: Celer](https://www.celer.network/)       | Leverages l1 liquidity, avoiding liquidity fragmentation   |[CELR](https://coinmarketcap.com/currencies/celer-network/) |
 
 # Other Projects
 
